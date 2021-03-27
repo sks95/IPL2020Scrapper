@@ -1,6 +1,7 @@
 # IPL Scrapper
 
 Run the IPLScrapper.js file to begin.
+
 Scrapping IPL 2020 data and creating team folders which contains batsman records.
 
 You are given link of IPL 2020-2021 home page link.
